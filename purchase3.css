@@ -1,0 +1,21 @@
+input{
+	margin: 0 auto;
+	border-radius: 8px;
+	padding: 6px;
+}
+#d2{
+	height: 100%;
+	width: 100%;
+	background-color: orange;
+}
+#d{
+	margin: 0 auto;
+	height: 50%;
+	width: 50%;
+	background-color: orange;
+	border-color: black;
+}
+
+body{
+	background-image: url(1.jpg);
+}

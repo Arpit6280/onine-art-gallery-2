@@ -1,0 +1,29 @@
+table{
+	margin: 0 auto;
+	border-radius: 15px;
+	font-size: 15px;
+	background-color: orange;
+	}
+td ,input{
+	margin: 0 auto;
+	border-radius: 8px;
+	padding: 6px;
+}
+th{
+	font-size: 20px;
+	text-align:center;
+}
+#s{
+	width:365px;
+	height: 55px;
+	border-radius: 8px;
+}
+body{
+	background-image: url(1.jpg);
+}
+
+button{
+	background-color: red;
+	font-size: 30px;
+color:white;
+}
